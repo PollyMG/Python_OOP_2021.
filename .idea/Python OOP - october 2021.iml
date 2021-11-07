@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Lab/3.Multiple Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Lab/4.Multilevel Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Lab/5.Hierarchical Inheritance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/1.Person" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
