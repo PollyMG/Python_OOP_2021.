@@ -8,6 +8,12 @@
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Lab/4.Multilevel Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Lab/5.Hierarchical Inheritance" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/1.Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/2.Zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/3.Players and Monsters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/4.Need for Speed" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Inheritance/Exercises/5.Shop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.Static and Class Methods/Lab/Hotel rooms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.Polymorphism and Abstraction/Exercises/4.Wild Farm/project" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -6,6 +6,8 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$/3.Inheritance/Exercises/1.Person/project" />
+            <path value="file://$PROJECT_DIR$/3.Inheritance/Exercises/2.Zoo/project" />
+            <path value="file://$PROJECT_DIR$/3.Inheritance/Exercises/5.Shop/project" />
           </resourceRoots>
         </entryData>
       </entry>

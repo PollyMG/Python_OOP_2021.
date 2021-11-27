@@ -1,16 +1,10 @@
-# This is a sample Python script.
+class AttrDict(object):
+    def __init__(self, init=None):
+        init = init if init is not None else {}
+        self.__dict__ = init
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+    def __getitem__(self, key):
+        return self.__dict__[key]
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    def __setitem__(self, key, value):
+        self.__dict__[key] = value
